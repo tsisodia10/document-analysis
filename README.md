@@ -19,7 +19,7 @@ This project consists of notebooks that perform the following tasks:
 
 00-explore-data.ipynb - This notebook explores the data by looking at the distribution of classes, number of words per document, etc.
 01-get-embeddings.ipynb - This notebook uses pre-trained word embeddings to create vector representations for each document.
-02-classify-documents.ipynb - This notebook builds classification models using gpt-35-turbo to classify each document.
+02-classify-documents.ipynb - This notebook builds classification models using gpt-35-turbo to classify each document and to predict the class of each document.
 
 ## References
 OpenAI repo: https://github.com/openai/openai-cookbook/
