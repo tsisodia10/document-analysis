@@ -1,4 +1,4 @@
-# Document Analysis using OpenAI GPT-3
+# Document Analysis using OpenShift AI and Azure
 This repository provides a set of examples for performing document analysis using OpenAI's GPT-3 language model. They are:
 
 1. Data Exploration - Explore data used in this repo.
