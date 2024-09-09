@@ -23,3 +23,4 @@ This project consists of notebooks that perform the following tasks:
 
 ## References
 OpenAI repo: https://github.com/openai/openai-cookbook/
+Azure Document Analysis reference repository - https://github.com/Azure/azure-openai-samples/tree/main/use_cases/archive/document_analysis
