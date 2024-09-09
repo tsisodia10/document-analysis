@@ -1,6 +1,7 @@
 # Document Analysis using OpenShift AI and Azure
-This repository provides a set of examples for performing document analysis using OpenAI's GPT-3 language model. They are:
+The objective of this demo is to showcase how OpenShift AI and Azure components can be effectively integrated to implement a GenAI use case for document classification and analysis. By following the step-by-step guide, users will learn how to deploy an Azure Red Hat OpenShift (ARO) cluster, configure AI resources, and utilize Azure AI services like OpenAI and Microsoft Entra ID. This demo highlights the seamless collaboration between OpenShift AI’s orchestration capabilities and Azure's powerful AI tools to create a scalable and secure solution for real-world AI applications.
 
+Involving - 
 1. Data Exploration - Explore data used in this repo.
 2. Get Embeddings - Generate embeddings from documents using gpt-35-turbo.
 3. Classify Documents - Use gpt-35-turbo to classify documents into different categories.
